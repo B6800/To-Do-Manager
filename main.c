@@ -10,7 +10,7 @@ int main() {
     load_tasks();
 
     printf("=== To-Do List App ===\n");
-
+// The condition is always true
     while (1) {
         printf("\nCommands: add, list, done, quit\n");
         printf("> ");
